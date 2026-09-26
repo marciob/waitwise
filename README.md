@@ -1,13 +1,15 @@
 # waitwise
 
-waitwise is a Claude Code plugin. It changes the line that Claude Code shows in its spinner while it works, such as "Pondering…".
+Replace Claude Code's spinner with anything useful.
 
-When you run the setup, your own Claude asks which use case you want. You can select a preset, or you can give a theme and Claude writes a custom list for you.
+While Claude Code works, its spinner shows a random word such as "Pondering…". waitwise is a Claude Code plugin that replaces those words with content that you choose.
+
+When you run the setup, your own Claude asks what you want to see. You can give any theme, and Claude writes the list for you. Or you can start from a preset. Some examples:
 
 ```
-✻ Owning beats owing…
-✻ Rain falls. The build waits…
-✻ madrugar — to get up early…
+✻ Owning beats owing…                 (affirmations)
+✻ Rain falls. The build waits…        (Zen)
+✻ madrugar — to get up early…         (Spanish flashcards)
 ```
 
 ## Requirements

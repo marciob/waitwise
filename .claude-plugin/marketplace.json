@@ -9,7 +9,7 @@
     {
       "name": "waitwise",
       "source": "./plugins/waitwise",
-      "description": "Choose what Claude Code shows in its spinner while it works: affirmations, Stoic or Zen lines, language flashcards, or a custom list that your AI writes for you."
+      "description": "Replace Claude Code's spinner with anything useful. Pick a preset, or let your AI write a list for you."
     }
   ]
 }
