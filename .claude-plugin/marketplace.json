@@ -1,0 +1,15 @@
+{
+  "name": "waitwise",
+  "description": "Personal spinner lines for Claude Code",
+  "owner": {
+    "name": "marciob",
+    "url": "https://github.com/marciob"
+  },
+  "plugins": [
+    {
+      "name": "waitwise",
+      "source": "./plugins/waitwise",
+      "description": "Choose what Claude Code shows in its spinner while it works: affirmations, Stoic or Zen lines, language flashcards, or a custom list that your AI writes for you."
+    }
+  ]
+}

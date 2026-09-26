@@ -1,0 +1,500 @@
+The code compiles. The tea cools
+Sweep the floor. Then sweep it again
+The cursor blinks. Nothing is missing
+Rain on the roof. The build waits
+An empty bowl holds the whole morning
+Each keystroke happens only once
+After the bell, the longer silence
+The bug was here before you looked
+Wash the cup. Put it down gently
+A leaf falls. No one needs to catch it
+The mountain does not hurry the cloud
+Where does the error go when it is fixed
+Sit. The answer is also sitting
+Steam rises from the kettle and vanishes
+One breath. One line. One breath
+The river does not read its own map
+Snow covers the path. Walk anyway
+The broom knows the floor better than you
+A frog jumps. The pond forgets
+Nothing to compile in the empty sky
+The monk and the stack trace sit together
+Light the lamp. The dark was never an enemy
+A cold cup still holds tea
+The crow does not wait for applause
+Slow is not the opposite of done
+The moon in the bowl is not wet
+Pine needles fall on the doorstep
+Every loop returns to the start
+The test passes. The wind keeps moving
+Moss grows without a deadline
+Close the door softly. The room remains
+The well is deep. Lower the bucket slowly
+A blank file is not empty
+Morning fog. The mountain is still there
+Rice in the pot. Patience in the fire
+Who is the one who is waiting
+The bell does not ring for itself
+A small lamp is enough for one step
+Unmerged branches still reach for light
+The garden is weeded one weed at a time
+Footsteps on gravel. Then none
+The kettle hums before it sings
+Nothing arrives late to this moment
+A cat sleeps in the warm server room
+The ink dries. The brush is washed
+Stone steps worn by patient feet
+Even the null pointer points somewhere
+Sparrows argue. The temple stays quiet
+The candle shortens. The light does not
+A chipped bowl still holds rice
+The log scrolls by like a river
+Bamboo bends. The wind passes through
+Old sandals by the gate
+The prompt is typed. Now the waiting
+Clouds have no plan and never get lost
+Put down the question. Pick up the broom
+Wet stones shine after the rain
+One task. One tea. One breath
+The fish does not know it swims
+Silence is also an answer
+A single reed moves in the pond
+The error message is honest
+Dew on the grass. Dew on the window
+The shadow of the pine moves slowly
+Let the function return
+Dust settles when no one watches
+The gate is open. Walk through it
+An unanswered email, a blossoming plum
+Tea poured too fast spills
+Between two thoughts, a small field
+The screen glows. The night is deep
+A lantern swings on the bridge
+The seed does not rush the soil
+This commit. This breath
+The monk sweeps. The leaves fall. Both are right
+Rain does not ask where to land
+The cushion is soft. The spine is straight
+Every bug began as a good intention
+The ocean does not count its waves
+Wait like a mountain waits
+Frost on the window. Warm hands on the cup
+The terminal is quiet. So is the pond
+Wash the bowl. Fill the bowl. Wash it again
+The river carries no grudges
+Ten thousand lines began with one
+The old tree leans toward the light
+Breathe in. The tests run
+Breathe out. The tests finish
+The wind reads no documentation
+A closed eye still sees the dark
+Noon sun. No shadow under the pine
+Carry the bucket. Spill a little
+Bells in the valley, one after another
+The cursor waits without wanting
+Sweeping leaves in autumn wind
+A stone sits in the stream for years
+The same moon over every city
+Small steps up the long mountain
+The kettle knows when it is ready
+Old code. New morning
+A crane stands on one leg in the reeds
+Gray sky. Warm soup
+A falling petal makes no noise
+The page loads slowly. The sky is patient
+Two monks. One broom. No argument
+The fire does not remember the wood
+A missing semicolon. A quiet smile
+The temple roof holds the snow
+Nothing to add. Nothing to remove
+Water in the ditch reflects the sky
+Grass grows back over the old path
+The deploy is far. The tea is near
+Autumn wind in the empty hall
+A crow on the wire, then the sky
+The bell was cast from broken tools
+Read the error slowly
+A clean desk. An open window
+Spring mud on the sandals
+The loop ends when it ends
+Hands in cold water. Mind in cold water
+A thousand-year pine, a one-day moth
+The compiler has no opinions
+Evening rain. A lamp in the kitchen
+Fold the robe. Fold the day
+The student asks. The rain answers
+Nothing moves. The download continues
+Pebbles in the stream, round with time
+Still water. Two moons
+The monk forgets the bug. The bug remains
+Lunch is rice. Tomorrow is rice
+A spider mends the web at dawn
+The doorbell and the temple bell sound alike
+The bug hides in plain light
+Unused variables, fallen leaves
+Snow on the bamboo. The bamboo bows
+The screen is dark. Your face appears in it
+Clear the cache. Sweep the step
+A ripple crosses the whole pond
+Before the first line, silence
+The wind has already forgotten the door
+Wooden floor, bare feet, cold morning
+A heron waits longer than you
+The build is slow. The moss is slower
+Nothing blooms on command
+The cup is full. Stop pouring
+Ants carry crumbs along the windowsill
+Walk the garden. Count nothing
+One lit window in the mountain village
+The refactor begins with a single breath
+The pond receives every raindrop
+A good question needs no hurry
+Rake the gravel into waves
+The stone garden has no water, yet it flows
+The chime turns in the evening breeze
+Every stack trace ends somewhere
+Morning bell. Evening bell. Same bell
+The candle does not argue with the wind
+Pine smoke drifts over the roof
+A late train. A full moon
+The tea leaf sinks when it is ready
+The broken build is also the path
+Mountains in the mist, then gone
+Mend the sock. Mend the function
+A child laughs somewhere down the hill
+The owl sees the whole night
+Nothing is waiting except you
+The river rounds the stone
+A monk's bowl, a developer's mug
+Quiet mind, quiet fan
+The wall is white. Sit facing it
+Merge conflicts, like clouds, pass
+Old roof. New rain
+Plum blossom in late snow
+A single sock on the line in the wind
+The keyboard waits for the hands
+Hands wait for the mind
+The mind waits for nothing
+Soup cools at its own pace
+The mountain was never climbing
+Let the query run
+The deer drinks. The stream flows on
+Paper lantern, soft yellow light
+A clean diff is a swept floor
+Winter trees show their true shape
+The echo of the bell walks across the valley
+This moment has no loading bar
+Thunder far away. The tea is warm
+A beetle climbs the temple step
+A cursor, blinking like a slow heart
+The wind moves. The flag moves. Something is still
+The river is new each morning
+A folded note in an old book
+Nobody owns the sunrise
+The ladder rests against the persimmon tree
+The fix was small. The looking was long
+Mountain rain. Every leaf drinks
+The temple cat ignores the schedule
+One word too many. Delete it
+Warm rice, cold night, bright stars
+The gardener waits for the rain too
+An old bridge over a quiet stream
+Walk slowly past the flowering tree
+The first snow erases yesterday
+The compiler speaks. Listen closely
+The stone does not need to be moved
+A sip. A pause. Another sip
+Chopsticks rest on the empty bowl
+Birds leave no trail in the sky
+Rest the eyes on the far hill
+The code does not know it is broken
+Midnight. The kettle is still warm
+Moonlight on the unwashed dishes
+The sound of the fan, the sound of the sea
+The bug and the fix share a room
+Mud on the roots. Flower on the stem
+A single tree on a wide hill
+The line you deleted also taught you
+Autumn leaves cover the stone path
+The cushion waits for no one
+Mist lifts from the rice fields
+Cold wind. Wool hat. Hot tea
+Sunlight crosses the floor at noon
+A pause is not a stop
+The sparrow is not late
+The monitor hums. The night listens
+Holding the pen, holding nothing
+The deadline is a cloud
+Slow water carves the canyon
+Close one tab. The room gets bigger
+Moths circle the lamp. The house sleeps
+Two birds on one branch, silent
+Tie the sandals. Open the gate
+An empty terminal is a clear sky
+Heavy snow. Light footsteps
+The shadow knows where the sun is
+Waiting is also a practice
+The bell hangs. The bell rings. The bell hangs
+Frogs in the paddy after dark
+A red leaf in a gray stream
+The rooster calls before anyone asks
+The knife is sharpened in silence
+A green shoot through the cracked step
+The monk counts breaths, loses count, begins again
+Your name is not in the stack trace
+Leaves turn without being told
+A tangled thread. Patient fingers
+A small fire in a big night
+The hill does not climb itself
+The mouse pointer rests on the page
+Evening. The last crow flies home
+Hot water, cold stone, rising steam
+A cloud passes over the empty field
+The logs say nothing. Read them again
+Wet sleeves from washing the rice
+There is no second first time
+The bamboo is hollow and strong
+Wake. Sweep. Sit. Sweep again
+An open hand holds more
+The kite climbs because the string holds
+Soft rain on the tin roof
+Wind chimes speak for the wind
+The pond is full of sky
+Remove one thing. Look again
+The monk carries the beetle outside
+Lines of code, lines of geese
+A deep well is quiet at the bottom
+The door creaks. Someone arrives
+Old snow. New footprints
+Stars were here before the servers
+Green checkmark. Blue sky
+The fish swims up the waterfall
+The heart of the matter is small
+Wind in the pines, a long exhale
+The monk laughs once and returns to work
+A pebble drops. The well answers
+Warm hands around a cold morning
+Where the river bends, the stones gather
+The spinner spins. The mind rests
+Dry leaves under the broom
+A water ring on the old wooden table
+The bell is struck. The morning opens
+Silent commit. Silent snow
+No map for the next moment
+The moth circles the monitor light
+One cricket in the whole field
+The sky does not keep a backlog
+A careful hand writes one character
+The mountain path turns and turns
+The mind wanders off. The breath brings it back
+A tidy bowl rack after supper
+The shoreline changes. The sea stays
+Rust on the gate. Moss on the wall
+Watch the kettle. It will boil
+A variable named with care
+Fresh snow on the stone lantern
+The hawk waits in the high wind
+A closed fist cannot receive rain
+The old monk still sweeps each morning
+Shadows lengthen on the courtyard
+The bug you meet today is today's bug
+A pond at night holds every star
+Morning light on the unsolved problem
+Rice paper. Brush. One stroke
+The pause between keys is also typing
+A dog barks across the valley
+Ice melts at the edge first
+The gong fades into the pines
+Swallows return to the old eaves
+A single step on a dusty floor
+The machine thinks. The monk breathes
+The plum tree does not compare itself
+Wet grass, bare feet, early bell
+Slow code. Fast river
+A bowl of noodles, steam in the lamplight
+Summer cicadas. Heavy air
+An empty chair in the garden
+The stream sings over the same stones
+One unknown at a time
+Late night. The screen is the moon
+The chisel follows the grain
+A monk bows to the broken tool
+Waves come in. Waves go out
+A pinecone falls into the snow
+Rain drums. The terminal scrolls
+Nothing here needs fixing yet
+The cloud does not hold its shape
+Firewood stacked for winter
+The debugger stops. So can you
+A turtle crosses the temple road
+The hand remembers the old path on the keys
+Each season has its own sweeping
+Hail on the roof, then sun
+Plain rice tastes like rice
+Autumn moon over the parking lot
+A tired horse drinks at the trough
+The page is white. The ink waits
+Every door is also a wall
+Sweeping, the monk forgets his own name
+Nobody hurries the tide
+Cold stone bench. Warm sunlight
+A crooked pine, perfectly crooked
+The answer comes after the question rests
+Salt, rice, water, fire
+The last leaf holds on. Then it lets go
+Lanterns float down the evening river
+The quiet coder hears the fan
+A snail climbs the wet wall
+Morning mist hides the city
+A worn step remembers every foot
+The mountain is quiet. The monitor is bright
+The market is empty at dawn
+The spring is small. The river is long
+A robe on a hook. A body at rest
+What was urgent yesterday is dust
+Stars do not flicker for attention
+The wheel turns. The hub is still
+A reed flute on the windowsill
+This line of code is enough for now
+The heron steps. The water barely moves
+An open window lets the rain decide
+A small bug, a long afternoon
+Fallen cherry petals on the car roof
+Sit down. The chair holds you
+Brush the snow from the stone bench
+The ferry waits for the last passenger
+The waterfall is loud. The pool is still
+Clean the brush before the ink dries
+An owl in the bell tower
+No breeze. The flag rests
+The build log is long. Read the last line
+The forest was once a single seed
+Someone walks in the rain without hurry
+A patched roof keeps the same sky out
+The clock ticks. The pine grows
+A mountain stream is never tired
+Ashes in the brazier still glow
+The hands rest on the keys, not pressing
+A leaf rides the current past the gate
+Winter sun on the woodpile
+The mind is loud. The garden is quiet
+Every answer waits for its question
+The tree does not chase the wind
+A lone boat on a gray lake
+Pull one weed. See the whole garden
+The fan spins. The room stays still
+Night bell. The village sleeps
+A cracked tile on the temple roof
+Mist on the pond. Frogs underneath
+The needle and the thread go together
+Quiet morning. The first commit
+Old moss on the north side of the stone
+An apple falls into tall grass
+The broom leans in the corner, resting
+Clouds gather. Nothing is decided
+A long thread of smoke from the incense
+The small bird sings in the big storm
+Ripples fade toward the reeds
+Warm water. Plates stacked. Hands at rest
+The fog lifts at its own speed
+A code review is a walk in the garden
+Sharp axe. Straight grain. One swing
+Snow falls on the sleeping servers
+Nothing leaves. Nothing arrives. The tide
+The moon is not hurrying across the sky
+A bell in fog sounds closer
+The student sweeps. The teacher watches
+The hill is green again
+Every stone has a place to rest
+An unread message. A red maple
+Keep the lamp trimmed
+Two footprints, then a stone, then footprints
+A fly on the screen. Leave it
+The bowl gives the soup its shape
+Wind shakes the paper door
+The problem is smaller than the fear
+A deep breath before the enter key
+Crickets start when the lights go out
+The robe of the old monk has many patches
+The river forgets its source
+Hot noodles on a cold platform
+Stillness is not the absence of motion
+A bright moon over the tangled code
+Ducks on the pond, feet busy underwater
+Snowmelt fills the mountain stream
+The same cushion, a different day
+An old pot, black from many fires
+Refactor slowly. Leave the garden better
+The frost draws ferns on the glass
+A traveler rests by the stone wall
+Nothing to prove to the wind
+Pour water. Watch it settle
+The small lamp in the long corridor
+A stray cat drinks from the rain barrel
+The last test runs. The sparrow lands
+Sweep the path. The path sweeps you
+One pebble cannot hold back the stream
+Ten bugs. Ten breaths
+The garden gate squeaks each autumn
+Early light on the dewy web
+The busy mind is a windy lake
+Mountains do not answer emails
+The cat stretches. The day begins
+Pack light. Walk far
+The wave returns to the sea
+The thought leaves. Let it
+A frozen pond, a skating child
+A whistle in the kitchen. Everything stops
+The ink stone is worn from grinding
+A simple function does one thing
+Faded laundry snaps in the wind
+The window frames a single branch
+Nothing to chase. The butterfly lands
+The trail climbs above the clouds
+The drum is empty. That is why it sounds
+Moonlit snow. No footprints yet
+The code runs. The river runs
+A broken branch still has leaves
+Look at the bug as a guest
+The fire needs air between the logs
+Cold feet on warm tatami
+The hour is long. The minute is short
+The monk bows to the morning
+Wet ink, dry paper, one breath
+A quiet field after the harvest
+The shell holds the sound of the sea
+A clean room, one flower
+No sound. Then the bell
+The cursor rests at the end of the line
+Dust on the lamp, light in the room
+The oak waits a hundred years
+One more breath before the next thought
+Sun on the tiles. A lizard sleeps
+Muddy boots at the door
+A bow to the compiler. A bow back
+Snowflakes land on the warm hand
+Twigs snap under slow feet
+A river stone fits the palm
+The wind returns to the valley at dusk
+Late summer. Tall grass. Low sun
+The loop is patient. So is the moon
+The empty nest in the winter tree
+Every page ends. The book continues
+The sea wall is patient with the sea
+Morning porridge, steam and quiet
+An old bench under a young tree
+The farmer plants. The sky decides
+A wrong turn shows a new valley
+Quiet screen. Quiet window. Quiet street
+A leaf lands on the shaved head of the monk
+The candle burns down to the saucer
+Sunset on the unfinished work
+Night falls. The code rests. So do you
+Small waves on the pond at dusk
+Clear water in a clay jar
+A mountain hut with one lamp
+Knots untie with patience, not force
+The bird does not sing to be heard
+The deploy waits like a boat at dawn
+First light on the monastery wall
+A pause at the top of the stairs

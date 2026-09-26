@@ -1,0 +1,500 @@
+よく (yoku) — often, well
+影響 (eikyō) — influence, impact
+気持ち (kimochi) — feeling
+お酒 (osake) — alcohol, sake
+会社 (kaisha) — company
+走る (hashiru) — to run
+本番 (honban) — production, the real thing
+人 (hito) — person
+エラー (erā) — error
+ほとんど (hotondo) — almost all
+再起動する (saikidō suru) — to restart, to reboot
+住所 (jūsho) — address
+悪い (warui) — bad
+脱ぐ (nugu) — to take off clothes
+連絡する (renraku suru) — to contact
+受け取る (uketoru) — to receive
+駅 (eki) — station
+今日 (kyō) — today
+今夜 (kon'ya) — tonight
+雑誌 (zasshi) — magazine
+整数 (seisū) — integer
+面白い (omoshiroi) — interesting, funny
+なかなか (nakanaka) — quite, considerably
+お待たせ (omatase) — sorry to keep you waiting
+中 (naka) — inside
+鉛筆 (enpitsu) — pencil
+近く (chikaku) — nearby
+全部 (zenbu) — all
+変 (hen) — strange, weird
+修正する (shūsei suru) — to fix, to revise
+救急車 (kyūkyūsha) — ambulance
+耳 (mimi) — ear
+味噌汁 (misoshiru) — miso soup
+週末 (shūmatsu) — weekend
+よろしく (yoroshiku) — please treat me kindly
+家 (ie) — house, home
+本 (hon) — book
+練習する (renshū suru) — to practice
+高い (takai) — tall, expensive
+ちょっと待って (chotto matte) — wait a moment
+お菓子 (okashi) — sweets, snacks
+お腹が空いた (onaka ga suita) — I'm hungry
+今晩 (konban) — this evening
+カタカナ (katakana) — katakana script
+お大事に (odaiji ni) — get well soon
+違う (chigau) — to differ, to be wrong
+実行する (jikkō suru) — to execute, to run
+時計 (tokei) — clock, watch
+間違える (machigaeru) — to make a mistake
+優しい (yasashii) — kind, gentle
+環境 (kankyō) — environment
+顧客 (kokyaku) — customer, client
+部分 (bubun) — part
+いいですね (ii desu ne) — sounds good
+ホテル (hoteru) — hotel
+乾杯 (kanpai) — cheers
+ログ (rogu) — log
+お会計 (okaikei) — the bill, check
+砂糖 (satō) — sugar
+止まる (tomaru) — to stop
+よかった (yokatta) — thank goodness
+もちろん (mochiron) — of course
+しかし (shikashi) — however
+まっすぐ (massugu) — straight ahead
+作る (tsukuru) — to make
+正月 (shōgatsu) — New Year
+無理しないで (muri shinaide) — don't overdo it
+相談する (sōdan suru) — to consult
+乗り換える (norikaeru) — to transfer trains
+ボタン (botan) — button
+死ぬ (shinu) — to die
+去年 (kyonen) — last year
+丁寧 (teinei) — polite, careful
+危ない (abunai) — dangerous
+夏 (natsu) — summer
+いただきます (itadakimasu) — thanks for the food
+関数 (kansū) — function in programming
+もう (mō) — already
+社会 (shakai) — society
+ちょっといいですか (chotto ii desu ka) — got a minute
+計算する (keisan suru) — to calculate
+障害 (shōgai) — failure, outage
+問題 (mondai) — problem
+床 (yuka) — floor
+ユーザー (yūzā) — user
+必ず (kanarazu) — without fail
+椅子 (isu) — chair
+申し込む (mōshikomu) — to apply
+眼鏡 (megane) — glasses
+ごちそうさま (gochisōsama) — thanks for the meal
+参加する (sanka suru) — to participate
+また明日 (mata ashita) — see you tomorrow
+了解 (ryōkai) — roger, got it
+平和 (heiwa) — peace
+意見 (iken) — opinion
+変える (kaeru) — to change something
+おやすみなさい (oyasuminasai) — good night
+働く (hataraku) — to work
+大丈夫 (daijōbu) — okay, all right
+紅葉 (kōyō) — autumn leaves
+遊ぶ (asobu) — to play, to hang out
+曲がる (magaru) — to turn
+選ぶ (erabu) — to choose
+足りる (tariru) — to be enough
+電車 (densha) — train
+緑 (midori) — green
+使う (tsukau) — to use
+特に (toku ni) — especially
+袋 (fukuro) — bag, sack
+魚 (sakana) — fish
+右 (migi) — right
+好き (suki) — liked, fond of
+軽い (karui) — light in weight
+気をつけて (ki o tsukete) — take care
+寝る (neru) — to sleep, to go to bed
+出かける (dekakeru) — to go out
+頭 (atama) — head
+説明する (setsumei suru) — to explain
+洗う (arau) — to wash
+そうですね (sō desu ne) — that's right, let me see
+続ける (tsuzukeru) — to continue
+昔 (mukashi) — long ago
+運転する (unten suru) — to drive
+近所 (kinjo) — neighborhood
+以前 (izen) — before, formerly
+本当ですか (hontō desu ka) — really
+取り消す (torikesu) — to cancel, to undo
+結果 (kekka) — result
+お疲れ様 (otsukaresama) — thanks for your hard work
+おかえりなさい (okaerinasai) — welcome home
+切手 (kitte) — postage stamp
+在宅勤務 (zaitaku kinmu) — working from home
+はじめまして (hajimemashite) — nice to meet you
+弾く (hiku) — to play an instrument
+今朝 (kesa) — this morning
+指 (yubi) — finger
+帰る (kaeru) — to go home
+案内する (annai suru) — to guide
+待つ (matsu) — to wait
+散歩する (sanpo suru) — to take a walk
+焼く (yaku) — to grill, to bake
+いっぱい (ippai) — full, a lot
+金曜日 (kin'yōbi) — Friday
+音 (oto) — sound
+洗濯する (sentaku suru) — to do laundry
+成功する (seikō suru) — to succeed
+神社 (jinja) — Shinto shrine
+予算 (yosan) — budget
+確認します (kakunin shimasu) — I'll check
+時間 (jikan) — time, hour
+お久しぶり (ohisashiburi) — long time no see
+豚肉 (butaniku) — pork
+氷 (kōri) — ice
+入る (hairu) — to enter
+誕生日 (tanjōbi) — birthday
+磨く (migaku) — to polish, to brush
+掃除する (sōji suru) — to clean
+すみません (sumimasen) — excuse me, sorry
+不便 (fuben) — inconvenient
+アップデート (appudēto) — update
+なるほど (naruhodo) — I see
+弱い (yowai) — weak
+どうぞ (dōzo) — please, go ahead
+画面 (gamen) — screen
+若い (wakai) — young
+管理者 (kanrisha) — administrator
+ごめんなさい (gomen nasai) — I'm sorry
+スケジュール (sukejūru) — schedule
+明日 (ashita) — tomorrow
+ゆっくり (yukkuri) — slowly
+男 (otoko) — man
+曇り (kumori) — cloudy weather
+行きましょう (ikimashō) — let's go
+座る (suwaru) — to sit
+アカウント (akaunto) — account
+全然 (zenzen) — not at all
+手紙 (tegami) — letter
+コメント (komento) — comment
+町 (machi) — town
+眠る (nemuru) — to sleep
+日本語 (nihongo) — Japanese language
+古い (furui) — old, outdated
+目標 (mokuhyō) — target, goal
+遅刻する (chikoku suru) — to arrive late
+ありがとうございます (arigatō gozaimasu) — thank you
+泣く (naku) — to cry
+借りる (kariru) — to borrow
+また (mata) — again
+面倒 (mendō) — troublesome
+吹く (fuku) — to blow
+いってらっしゃい (itterasshai) — take care, see you
+戻り値 (modorichi) — return value
+大きい (ōkii) — big
+あまり (amari) — not very
+保存する (hozon suru) — to save a file
+本当に (hontō ni) — really
+データ (dēta) — data
+ただいま (tadaima) — I'm home
+夢 (yume) — dream
+建物 (tatemono) — building
+頑張って (ganbatte) — good luck, do your best
+同じ (onaji) — same
+設定する (settei suru) — to configure, to set
+野菜 (yasai) — vegetables
+立つ (tatsu) — to stand
+住む (sumu) — to live, to reside
+次 (tsugi) — next
+多分 (tabun) — probably
+ネット (netto) — the internet
+削除する (sakujo suru) — to delete
+書く (kaku) — to write
+食べる (taberu) — to eat
+起きる (okiru) — to get up, to wake up
+歩く (aruku) — to walk
+体 (karada) — body
+原因 (gen'in) — cause
+やり直す (yarinaosu) — to redo
+飲む (nomu) — to drink
+警察 (keisatsu) — police
+髪 (kami) — hair
+決める (kimeru) — to decide
+手伝う (tetsudau) — to help
+タクシー (takushī) — taxi
+買う (kau) — to buy
+切る (kiru) — to cut
+お風呂 (ofuro) — bath
+売る (uru) — to sell
+渡る (wataru) — to cross
+置く (oku) — to put, to place
+季節 (kisetsu) — season
+広い (hiroi) — wide, spacious
+引っ越す (hikkosu) — to move house
+冬 (fuyu) — winter
+仕方がない (shikata ga nai) — it can't be helped
+出張 (shutchō) — business trip
+話し合う (hanashiau) — to discuss
+誰 (dare) — who
+温める (atatameru) — to warm up
+新幹線 (shinkansen) — bullet train
+型 (kata) — type, mold
+忙しい (isogashii) — busy
+目的 (mokuteki) — purpose, goal
+笑顔 (egao) — smiling face
+我慢 (gaman) — patience, endurance
+費用 (hiyō) — cost, expense
+喫茶店 (kissaten) — café, coffee shop
+寒い (samui) — cold, of weather
+遠い (tōi) — far
+降る (furu) — to fall, of rain or snow
+信号 (shingō) — traffic light
+靴 (kutsu) — shoes
+なぜ (naze) — why
+嫌い (kirai) — disliked
+上司 (jōshi) — boss, superior
+暑い (atsui) — hot, of weather
+味 (aji) — taste
+開発者 (kaihatsusha) — developer
+朝ご飯 (asagohan) — breakfast
+行く (iku) — to go
+接続する (setsuzoku suru) — to connect
+どういたしまして (dō itashimashite) — you're welcome
+大学 (daigaku) — university
+落ちる (ochiru) — to fall, to drop
+昨日 (kinō) — yesterday
+前 (mae) — front, before
+みんな (minna) — everyone
+こんばんは (konbanwa) — good evening
+地下鉄 (chikatetsu) — subway
+安い (yasui) — cheap
+ファイル (fairu) — file
+気分 (kibun) — mood
+やっと (yatto) — finally, at last
+仕事 (shigoto) — work, job
+自信 (jishin) — self-confidence
+慣れる (nareru) — to get used to
+喉が渇いた (nodo ga kawaita) — I'm thirsty
+世界 (sekai) — world
+スマホ (sumaho) — smartphone
+もう一度 (mō ichido) — once more
+安心する (anshin suru) — to feel relieved
+プログラム (puroguramu) — program
+締め切り (shimekiri) — deadline
+夜 (yoru) — night
+空港 (kūkō) — airport
+小さい (chiisai) — small
+外 (soto) — outside
+以下 (ika) — or less, below
+台風 (taifū) — typhoon
+秋 (aki) — autumn
+どうも (dōmo) — thanks
+検索する (kensaku suru) — to search
+近い (chikai) — near
+布団 (futon) — futon, bedding
+権限 (kengen) — permission, authority
+失敗する (shippai suru) — to fail
+絵 (e) — picture, painting
+例外 (reigai) — exception
+押す (osu) — to push, to press
+始める (hajimeru) — to start something
+注文 (chūmon) — order
+顔 (kao) — face
+不具合 (fuguai) — defect, malfunction
+優秀 (yūshū) — excellent
+お金 (okane) — money
+渡す (watasu) — to hand over
+明後日 (asatte) — the day after tomorrow
+暖かい (atatakai) — warm
+コーヒー (kōhī) — coffee
+水 (mizu) — water
+飛ぶ (tobu) — to fly
+紹介する (shōkai suru) — to introduce
+料理する (ryōri suru) — to cook
+新鮮 (shinsen) — fresh
+同僚 (dōryō) — coworker
+宿題 (shukudai) — homework
+東 (higashi) — east
+キーボード (kībōdo) — keyboard
+寂しい (sabishii) — lonely
+効率 (kōritsu) — efficiency
+出口 (deguchi) — exit
+過ごす (sugosu) — to spend time
+来る (kuru) — to come
+正直 (shōjiki) — honest
+アプリ (apuri) — app
+石 (ishi) — stone
+メール (mēru) — email
+病院 (byōin) — hospital
+壊れる (kowareru) — to break
+会議 (kaigi) — meeting
+ひらがな (hiragana) — hiragana script
+茶色 (chairo) — brown
+おはようございます (ohayō gozaimasu) — good morning
+木 (ki) — tree
+引く (hiku) — to pull
+美味しい (oishii) — delicious
+友達 (tomodachi) — friend
+対策 (taisaku) — countermeasure
+大人 (otona) — adult
+でも (demo) — but
+黒い (kuroi) — black
+後輩 (kōhai) — junior colleague
+森 (mori) — forest
+減る (heru) — to decrease
+箱 (hako) — box
+黄色 (kiiro) — yellow
+バージョン (bājon) — version
+動く (ugoku) — to move
+通訳 (tsūyaku) — interpreter
+進む (susumu) — to advance
+開発する (kaihatsu suru) — to develop
+丈夫 (jōbu) — sturdy, durable
+便利 (benri) — convenient
+肉 (niku) — meat
+いってきます (ittekimasu) — I'm off, see you later
+事故 (jiko) — accident
+静か (shizuka) — quiet
+両親 (ryōshin) — parents
+比べる (kuraberu) — to compare
+事務所 (jimusho) — office
+先月 (sengetsu) — last month
+通信 (tsūshin) — communication
+ミーティング (mītingu) — meeting
+千 (sen) — thousand
+いつ (itsu) — when
+新人 (shinjin) — newcomer
+疲れる (tsukareru) — to get tired
+名前 (namae) — name
+条件 (jōken) — condition
+料理 (ryōri) — cooking, cuisine
+朝 (asa) — morning
+毎日 (mainichi) — every day
+つける (tsukeru) — to turn on
+どれ (dore) — which one
+兄弟 (kyōdai) — siblings
+予定 (yotei) — plan, schedule
+今 (ima) — now
+橋 (hashi) — bridge
+いらっしゃいませ (irasshaimase) — welcome to our store
+涼しい (suzushii) — cool
+もしもし (moshimoshi) — hello on the phone
+将来 (shōrai) — future
+分かる (wakaru) — to understand
+ちょっと (chotto) — a bit
+デパート (depāto) — department store
+言葉 (kotoba) — word, language
+国 (kuni) — country
+発音 (hatsuon) — pronunciation
+辛い (karai) — spicy
+例文 (reibun) — example sentence
+ご飯 (gohan) — cooked rice, meal
+お願いします (onegaishimasu) — please
+弟 (otōto) — younger brother
+お茶 (ocha) — tea
+確認する (kakunin suru) — to confirm, to check
+新しい (atarashii) — new
+ダウンロードする (daunrōdo suru) — to download
+兄 (ani) — my older brother
+明るい (akarui) — bright
+二つ (futatsu) — two things
+安定 (antei) — stability
+レビュー (rebyū) — review
+番号 (bangō) — number
+大丈夫ですか (daijōbu desu ka) — are you okay
+階段 (kaidan) — stairs
+楽しい (tanoshii) — fun
+午後 (gogo) — p.m., afternoon
+間 (aida) — between, interval
+車 (kuruma) — car
+失礼します (shitsurei shimasu) — excuse me, pardon me
+間に合う (maniau) — to be in time
+毎晩 (maiban) — every night
+考え (kangae) — idea, thought
+分かりました (wakarimashita) — understood, got it
+見る (miru) — to see, to watch
+消す (kesu) — to turn off, to erase
+休む (yasumu) — to rest, to take a break
+進捗 (shinchoku) — progress
+楽 (raku) — easy, comfortable
+最後 (saigo) — last, end
+お元気ですか (ogenki desu ka) — how are you
+契約 (keiyaku) — contract
+会う (au) — to meet
+暗号化 (angōka) — encryption
+いくらですか (ikura desu ka) — how much is it
+お腹いっぱい (onaka ippai) — I'm full
+声 (koe) — voice
+現金 (genkin) — cash
+困る (komaru) — to be troubled
+優先 (yūsen) — priority
+共有する (kyōyū suru) — to share
+道 (michi) — road, way
+洗濯機 (sentakuki) — washing machine
+忘れる (wasureru) — to forget
+とても (totemo) — very
+毎月 (maitsuki) — every month
+聞く (kiku) — to listen, to ask
+下手 (heta) — unskillful, bad at
+払う (harau) — to pay
+こんにちは (konnichiwa) — hello
+分かりません (wakarimasen) — I don't understand
+どこ (doko) — where
+懐かしい (natsukashii) — nostalgic
+サーバー (sābā) — server
+足 (ashi) — foot, leg
+承知しました (shōchi shimashita) — understood, certainly
+おめでとう (omedetō) — congratulations
+屋根 (yane) — roof
+難しい (muzukashii) — difficult
+壁 (kabe) — wall
+答え (kotae) — answer
+許す (yurusu) — to forgive, to allow
+責任 (sekinin) — responsibility
+作業 (sagyō) — work, task
+祖父 (sofu) — my grandfather
+バグ (bagu) — bug
+幸せ (shiawase) — happiness, happy
+荷物 (nimotsu) — luggage, package
+変数 (hensū) — variable
+雨 (ame) — rain
+木漏れ日 (komorebi) — sunlight through leaves
+何 (nani) — what
+思う (omou) — to think
+水曜日 (suiyōbi) — Wednesday
+切符 (kippu) — ticket
+はい (hai) — yes
+漢字 (kanji) — kanji, Chinese characters
+気にしないで (ki ni shinaide) — don't worry about it
+午前 (gozen) — a.m., morning
+読む (yomu) — to read
+面接 (mensetsu) — interview
+いいえ (iie) — no
+パン (pan) — bread
+機能 (kinō) — feature, function
+音楽 (ongaku) — music
+意味 (imi) — meaning
+仕組み (shikumi) — mechanism, how it works
+さようなら (sayōnara) — goodbye
+形 (katachi) — shape
+育てる (sodateru) — to raise, to bring up
+仕様 (shiyō) — specification
+二人 (futari) — two people
+新聞 (shinbun) — newspaper
+生まれる (umareru) — to be born
+手順 (tejun) — procedure, steps
+月 (tsuki) — moon
+次回 (jikai) — next time
+知る (shiru) — to know
+桜 (sakura) — cherry blossom
+質問 (shitsumon) — question
+いい (ii) — good
+スーパー (sūpā) — supermarket
+またね (mata ne) — see you
+課題 (kadai) — task, issue
+経験 (keiken) — experience
+万 (man) — ten thousand
+話す (hanasu) — to speak
+少し (sukoshi) — a little
+撮る (toru) — to take a photo
+文字化け (mojibake) — garbled text
+一生懸命 (isshōkenmei) — with all one's effort
